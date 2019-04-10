@@ -1,0 +1,16 @@
+{
+  "name": "cognitiveops-logger-handler",
+  "version": "1.0.0",
+  "description": "Logger Handler for CognitiveOps project",
+  "scripts": {},
+  "private": true,
+  "author": "brymonsoft",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "graphql-tag": "^2.10.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "main": "./index.js"
+}
