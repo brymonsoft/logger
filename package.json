@@ -1,5 +1,5 @@
 {
-  "name": "cognitiveops-logger-handler",
+  "name": "logger",
   "version": "1.0.0",
   "description": "Logger Handler for CognitiveOps project",
   "scripts": {},
