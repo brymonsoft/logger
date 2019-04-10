@@ -1,9 +1,9 @@
 {
-  "name": "logger",
-  "version": "1.0.0",
+  "name": "@brymonsoft/logger",
+  "version": "1.0.1",
   "description": "Logger Handler for CognitiveOps project",
   "scripts": {},
-  "private": true,
+  "private": false,
   "author": "brymonsoft",
   "license": "MIT",
   "dependencies": {

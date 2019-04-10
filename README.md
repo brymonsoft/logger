@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-npm is coming
+npm i @brymonsoft/logger
 ```
 
 
